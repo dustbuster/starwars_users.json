@@ -17,11 +17,13 @@ This project contains a generated JSON dataset of **Star Wars** characters, comp
 Character list originally adapted from:  
 👉 [Wikipedia – List of Star Wars characters](https://en.wikipedia.org/wiki/List_of_Star_Wars_characters)
 
+## TOTALLY TOTALLY used ChatGPT to help with this too.
+👉 The o3 model using "deep research" to help come up with the roles, usernames, and appropriate email domains.
+
 ## 💡 Email Domains
 
 Email addresses were generated based on affiliations:
 
-+-------------------------+-------------------------+
 | Faction / Role          | Domain                  |
 |-------------------------|-------------------------|
 | Jedi                    | `jediorder.org`         |
@@ -31,7 +33,6 @@ Email addresses were generated based on affiliations:
 | Mandalorians            | `mandalore.net`         |
 | Galactic Senate         | `galacticsenate.gov`    |
 | Others (civilians, etc) | `galacticmail.com`      |
-+-------------------------+-------------------------+
 
 ## 🧪 Use Cases
 
@@ -49,4 +50,4 @@ Not affiliated with or endorsed by Lucasfilm or Disney.
 
 ---
 
-May the data be with you. 🌌
+May the force data be with you. 🌌

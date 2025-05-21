@@ -1,4 +1,4 @@
-# 🛸 Star Wars Character Directory
+# 🛸 Star Wars Character Directory User Data
 
 This project contains a generated JSON dataset of **Star Wars** characters, complete with:
 
@@ -17,7 +17,7 @@ This project contains a generated JSON dataset of **Star Wars** characters, comp
 Character list originally adapted from:  
 👉 [Wikipedia – List of Star Wars characters](https://en.wikipedia.org/wiki/List_of_Star_Wars_characters)
 
-## TOTALLY TOTALLY used ChatGPT to help with this too.
+## The force moved through ChatGpt to help vanquish this foe in a cilivized manner.
 👉 The o3 model using "deep research" to help come up with the roles, usernames, and appropriate email domains.
 
 ## 💡 Email Domains

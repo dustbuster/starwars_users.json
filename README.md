@@ -10,7 +10,7 @@ This project contains a generated JSON dataset of **Star Wars** characters, comp
 
 ## 📦 File
 
-- `FakeUserData.json`: A complete JSON array of ~250+ characters from the Star Wars universe.
+- `star_wars_users.json`: A complete JSON array of 300 characters from the Star Wars universe.
 
 ## 📚 Source
 
